@@ -41,6 +41,6 @@ char* ip = "YOUR_IP_ADDRESS";
 int port = YOUR_PORT;
 ```
 
-Please, provide your credentials or api key, the Sentilo instance host ip and it port. After taht, you can upload the sketch to the Arduino devide.
+Please, provide your credentials or api key, the Sentilo instance host ip and it port. After that, you can upload the sketch to the Arduino device.
 
 We hope you enjoy it!
